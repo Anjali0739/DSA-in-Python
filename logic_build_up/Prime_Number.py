@@ -1,5 +1,5 @@
 # Question: https://www.geeksforgeeks.org/problems/prime-number2314/1
-
+import math
 class Solution:
     def isPrime(self, n):
         # code here
